@@ -1,0 +1,94 @@
+a:2:{i:0;s:9245:"1361870438|*{margin:0;padding:0}html{height:100%}body{height:100%;background:#e9e9e9;color:#3a3a3a;font-size:12px;font-family:Verdana,Arial,Helvetica,sans-serif;line-height:15px}body.login{background:#FFF}a{color:#1368be}a:hover{text-decoration:none}img{border:none;vertical-align:bottom}h1{}h2{font-size:18px;line-height:25px}p{}ul{list-style:none}.clear{clear:both;font-size:1px;line-height:0px}.hidden{display:none !important}.error{font-weight:bold;color:#f00}.text_center{text-align:center}.text_right{text-align:right}.center{margin:0px
+auto}.block{display:block}.clearboth{clear:both}.left{float:left}.right{float:right}.nobr{white-space:nowrap}.rel{position:relative}#page{height:100%;width:expression((documentElement.clientWidth||document.body.clientWidth)<995?'995px':'');min-width:995px}#wrapper{min-height:100%;padding:0px
+30px}#content{padding-bottom:150px}#header{height:250px;background:#99cc01;position:relative}#left_collumn{float:left;width:15em;background:#a3c}#right_collumn{float:right;width:10em;background:#fc0}#wrap1{float:right;width:100%;margin-left:-15em}#wrap2{margin-left:15em}#wrap3{width:100%}#wrap4{float:left;width:100%;margin-right:-10em}#center_collumn{margin-right:10em;background:#f30}#footer{position:relative;height:132px;margin-top:-132px;background:#f0f}.red{color:#f11808}.login-block{width:469px;margin:0px
+auto}.login-block
+.header{height:123px;position:relative}.login-block
+.logo{position:absolute;top:76px !important;left:38px;width:161px;height:28px;background:url(/puzzleAdmin/images/logo.gif);text-decoration:none}.login-block .site-enter-info{position:absolute;top:76px !important;left:288px !important;color:#393b3f}.login-block
+.box{padding:14px
+17px 20px 17px;width:462px;height:202px;background:url(/puzzleAdmin/images/background/login.gif)}.login-block
+form{padding:0px
+40px}.login-block form
+dt{height:16px;padding-top:15px;font-size:11px;line-height:11px}.login-block form
+.inputbox{color:#000;font-size:18px;width:360px;padding:3px
+9px}.login-block form .button-block{height:42px;padding-top:11px}.login-block form .button-block
+table{border-collapse:collapse}.login-block form .button-block
+td{height:42px;padding-right:6px}.login-block form .button-block .rel
+input{position:absolute;top:0px;right:0px}.header{height:78px;position:relative}.header
+.logo{position:absolute;top:15px;left:10px;width:46px;height:21px;background:url(/puzzleAdmin/images/logo_inner.gif);text-decoration:none}.header .site-enter-info{position:absolute;top:50px;left:10px}.header
+.usernav{position:absolute;top:15px;right:10px}.header .usernav
+li{float:left;padding:0px
+7px}.header .usernav .user
+a{background:url(/puzzleAdmin/images/icon/user.gif) 0px 2px no-repeat;padding-left:18px}.header .usernav .logout
+a{background:url(/puzzleAdmin/images/icon/logout.gif) right 2px no-repeat;padding-right:22px}.main-grid{width:100%;border-collapse:collapse}.main-grid .left-collumn{width:230px;vertical-align:top;padding:60px
+0px 25px 0px}.main-grid .center-collumn{vertical-align:top}.left-menu{width:230px}.left-menu
+a{display:block;height:36px;line-height:34px;font-size:18px;background:url(/puzzleAdmin/images/background/left-menu.gif) 0px 0px no-repeat;padding:0px
+13px}.left-menu a:hover{color:#f01212;background:url(/puzzleAdmin/images/background/left-menu.gif) 0px -36px no-repeat}.left-menu
+a.active{color:#393b3f;text-decoration:none;cursor:default;background:url(/puzzleAdmin/images/background/left-menu.gif) 0px -72px no-repeat}.languages
+p{float:left;margin-right:20px;line-height:30px;margin-left:20px}.languages
+ul{float:left}.languages
+li{height:36px;float:left;position:relative;padding-left:32px}.languages li
+span.l{position:absolute;top:0px;left:0px;width:32px;height:36px;background:url(/puzzleAdmin/images/languages/left.png)}.languages li
+span.r{position:absolute;top:0px;right:-32px;width:32px;height:36px;background:url(/puzzleAdmin/images/languages/right.png)}.languages li
+a{display:block;height:36px;background:url(/puzzleAdmin/images/languages/center.png) top left repeat-x;line-height:30px;color:#FFF}.languages
+li.active{z-index:100}.languages li.active
+span.l{background:url(/puzzleAdmin/images/languages/active-left.png)}.languages li.active
+span.r{background:url(/puzzleAdmin/images/languages/active-right.png)}.languages li.active
+a{background:#FFF;color:#000;text-decoration:none}.main-container{background:#FFF;padding:40px
+50px}.buttons-list
+li{width:315px;float:left;height:58px;padding-bottom:20px}.big-button{display:inline-block}.big-button
+.l{display:block;float:left;width:29px;height:58px;background:url(/puzzleAdmin/images/big-button/corners.gif) 0px 0px no-repeat}.big-button
+a{display:block;float:left;height:58px;background:url(/puzzleAdmin/images/big-button/pattern.gif) 0px 0px;font-size:18px;line-height:53px}.big-button
+.r{display:block;float:left;width:29px;height:58px;background:url(/puzzleAdmin/images/big-button/corners.gif) -30px 0px no-repeat}.grenn-button{display:inline-block}.grenn-button
+.l{display:block;float:left;width:15px;height:27px;background:url(/puzzleAdmin/images/big-button/corners-green.gif) 0px 0px no-repeat}.grenn-button
+a{display:block;float:left;height:27px;background:url(/puzzleAdmin/images/big-button/pattern-green.gif) 0px 0px;font-size:13px;line-height:24px;color:#FFF;text-decoration:none}.grenn-button
+.r{display:block;float:left;width:15px;height:27px;background:url(/puzzleAdmin/images/big-button/corners-green.gif) -15px 0px no-repeat}.page-title{padding-bottom:32px}.sub-page-title{padding:20px
+0px}.title_with_button{float:left;margin-right:20px}.title{color:#595959;font-weight:normal}.title
+b{color:#000;font-weight:normal}.small{font-size:11px}.list-table{width:100%;border-collapse:collapse}.list-table
+th{font-size:11px;text-align:left;vertical-align:top}.list-table tr:hover
+td{background:#ededed}.list-table
+td{border-top:solid 1px #e5e5e5;border-bottom:solid 1px #e5e5e5;padding:7px
+0px}.list-table .icon-box{width:40px;text-align:center}.list-table
+.delete{display:inline-block;width:20px;height:19px;background:url(/puzzleAdmin/images/icon/delete.gif) 0px 0px no-repeat;text-decoration:none}.list-table
+.subcat{display:inline-block;width:20px;height:20px;background:url(/puzzleAdmin/images/icon/subcat.gif) 0px 0px no-repeat;text-decoration:none}.list-table .subcat:hover{background:url(/puzzleAdmin/images/icon/subcat.gif) 0px -20px no-repeat}.list-table
+.edit{display:inline-block;width:20px;height:20px;background:url(/puzzleAdmin/images/icon/edit.gif) 0px 0px no-repeat;text-decoration:none}.list-table .edit:hover{background:url(/images/icon/edit.gif) 0px -20px no-repeat}.list-table .sort-cell{width:65px;padding-left:35px}.list-table .inmenu-cell{width:50px;text-align:center}.items
+.sort{width:30px;border:solid 1px #000;text-align:center;font-family:Verdana,Arial,Helvetica,sans-serif}.list-table .sub
+.none{border:none !important}.list-table .sub
+td{border-top:dashed 1px #e5e5e5 !important;border-bottom:dashed 1px #e5e5e5 !important}.list-table .sub
+.sort{width:20px}.list-table .sub .rel
+a{position:absolute;top:4px;left:-20px;width:8px;height:8px;background:url(/puzzleAdmin/images/icon/del.gif)}.list-table .sub .rel a:hover{background:url(/puzzleAdmin/images/icon/del_red.gif)}.list-table
+.sub0{padding-left:20px}.list-table
+.sub1{padding-left:38px}.list-table
+.sub2{padding-left:56px}.list-table
+.sub3{padding-left:74px}.list-table
+.sub4{padding-left:92px}.list-table
+.sub5{padding-left:100px}.list-table
+.sub6{padding-left:128px}.list-table
+.sub7{padding-left:148px}.button-box{background:#dfdfce;margin:25px
+0px;padding:9px
+10px 6px 10px;text-align:right}.edit-page
+.inputbox{color:#0a0a0a;font-size:14px;font-family:Verdana,Arial,Helvetica,sans-serif;width:99%;padding:4px
+10px}.edit-page table
+td{padding-right:10px;padding-bottom:4px}.edit-page
+dt{padding-bottom:4px}.edit-page
+dd{padding-bottom:16px}.edit-page
+.date{width:105px}.edit-page
+.time{width:60px}.edit-page
+.keywords{height:65px}.edit-page
+.meta{height:65px}.field-statistics{width:100%}.field-statistics
+.l{text-align:left}.field-statistics
+.r{text-align:right}.greenbox{margin:0px
+-10px;padding:10px;background:#f0f0e3}.greenbox
+.inputbox{width:98%}.greenbox
+legend{margin-left:10px;padding:0px
+10px}.greenbox
+.box{padding:10px
+20px 20px 20px}.greenbox
+.del{background:url(/puzzleAdmin/images/icon/del_red.gif) 0px 3px no-repeat;padding-left:16px;color:#ec1818}.greenbox table
+td{vertical-align:top;padding-bottom:10px}.greenbox table td
+p{padding:6px
+0px}form
+.errorMessage{color:red;font-size:0.9em}.selectedAllDiv{float:right}.selectedAllDiv,.selectedAllDiv2{position:relative;top:5px;color:#099;border-bottom:1px dotted #099;cursor:pointer}.pager{float:left;position:relative;top:20px}.footer{color:#000;font-size:11px;height:65px;position:relative}.copyright{left:50px;position:absolute;top:20px}.makers{position:absolute;right:50px;top:20px}#workTypeToggle{position:relative;bottom:18px;left:340px;border-bottom:1px dotted #1368BE;text-decoration:none}.del
+img{margin-right:10px;position:relative;bottom:3px}.list-table
+.sort{border:1px
+solid #000;font-family:Verdana,Arial,Helvetica,sans-serif;text-align:center;width:30px}.a_subcat{margin:0
+0 0 15px;text-decoration:none;border-bottom:1px dotted #099}.s_e{color:#f00}";i:1;N;}

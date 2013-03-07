@@ -1,0 +1,25 @@
+a:2:{i:0;a:2:{i:0;s:705:"    <h1 id="logo" >
+        <a href="/ru">
+            ИНТЕРНЕТ МАГАЗИН        </a>
+    </h1>
+    <div id="navigation">
+        <ul>
+            <li>
+                <a href="/support/language/ru" >
+                    Поддержка                </a>
+            </li>
+            <li>
+                <a href="#">
+                    Мой профиль                </a>
+            </li>
+            <li>
+                <a href="/ru/catalog" >
+                    Каталог                </a>
+            </li>
+            <li>
+                <a href="/ru/contacts" >
+                    Контакты                </a>
+            </li>
+        </ul>
+    </div>
+";i:1;N;}i:1;N;}
